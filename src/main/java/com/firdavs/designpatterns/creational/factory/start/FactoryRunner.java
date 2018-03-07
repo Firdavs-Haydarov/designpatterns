@@ -1,9 +1,9 @@
-package com.firdavs.designpatterns.factory.start;
+package com.firdavs.designpatterns.creational.factory.start;
 
-import com.firdavs.designpatterns.factory.models.CppDeveloperFactory;
-import com.firdavs.designpatterns.factory.models.Developer;
-import com.firdavs.designpatterns.factory.models.DeveloperFactory;
-import com.firdavs.designpatterns.factory.models.JavaDeveloperFactory;
+import com.firdavs.designpatterns.creational.factory.models.CppDeveloperFactory;
+import com.firdavs.designpatterns.creational.factory.models.Developer;
+import com.firdavs.designpatterns.creational.factory.models.DeveloperFactory;
+import com.firdavs.designpatterns.creational.factory.models.JavaDeveloperFactory;
 
 public class FactoryRunner {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.firdavs.designpatterns.facade.models;
+package com.firdavs.designpatterns.structural.facade.models;
 
 public class Developer {
     public void doJobBefireDeadLine(BugTracker bugTracker){
