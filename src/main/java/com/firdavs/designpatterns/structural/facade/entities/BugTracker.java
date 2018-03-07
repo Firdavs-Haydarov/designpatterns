@@ -1,4 +1,4 @@
-package com.firdavs.designpatterns.structural.facade.models;
+package com.firdavs.designpatterns.structural.facade.entities;
 
 public class BugTracker {
     private boolean activeSprint;

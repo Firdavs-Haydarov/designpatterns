@@ -1,6 +1,6 @@
 package com.firdavs.designpatterns.structural.facade.start;
 
-import com.firdavs.designpatterns.structural.facade.models.WorkFlowFacade;
+import com.firdavs.designpatterns.structural.facade.entities.WorkFlowFacade;
 
 public class FacadeRunner {
     public static void main(String[] args) {

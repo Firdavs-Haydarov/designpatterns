@@ -1,4 +1,4 @@
-package com.firdavs.designpatterns.creational.factory.models;
+package com.firdavs.designpatterns.creational.factory.entities;
 
 public class CppDeveloper implements Developer {
     @Override

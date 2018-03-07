@@ -1,4 +1,4 @@
-package com.firdavs.designpatterns.structural.facade.models;
+package com.firdavs.designpatterns.structural.facade.entities;
 
 public class WorkFlowFacade {
     private Job job=new Job();
@@ -8,7 +8,7 @@ public class WorkFlowFacade {
     public void solveProblem(){
         job.doJob();
         bugTracker.startSprint();
-        developer.doJobBefireDeadLine(bugTracker);
+        developer.doJobBeforeDeadLine(bugTracker);
 //        bugTracker.stopSprint();
 //        developer.doJobBefireDeadLine(bugTracker);
     }
